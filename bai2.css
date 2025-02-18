@@ -1,0 +1,32 @@
+.back1{
+    display: flex;
+    gap: 15px;
+
+}
+.back1 .item1{
+    background-color: gray;
+    padding: 30px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: "Sigmar", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-image: linear-gradient(rgb(10, 9, 9), rgb(210, 210, 207));
+    opacity: 0.5;
+    gap: 5px;
+}
+.back1 img{
+    border-radius: 5px ;
+}
+.back1 .foo{
+    width: auto;
+    height: 205px;
+}
+.back1 .car{
+    width: auto;
+    height: 205px;
+}
+.back1 .tab{
+    width: auto;
+    height: 15px;
+}

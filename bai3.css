@@ -1,0 +1,37 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.anh1{
+    position: relative;
+    width: 400px;
+    border-radius: 10px;
+}
+button{
+    position: absolute;
+    left: 300px;
+    top: 30px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.tit1{
+    position: relative;
+    left: 20px;
+}
+.anh2{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}      
+.back2{
+    display: flex;
+    align-items: center;
+}
+.tit3{
+    opacity: 0.5;
+}
+.tit4{
+    opacity: 0.8;
+}
